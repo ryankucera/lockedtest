@@ -33,7 +33,7 @@ info:
 #
 #routes:
 #  # Start off with the directory name we want to keep everything in.
-#  location: routes
+location: routes
 #
 #  # Then use globs to find all of the files that can contain route code.
 #  # If using single glob, then can be just the string.
